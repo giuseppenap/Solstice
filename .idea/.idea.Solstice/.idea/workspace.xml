@@ -8,11 +8,20 @@
     <projectFile>Intermediate/ProjectFiles/UE5.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b9d464d-a521-43bd-99c7-6527755ab321" name="Changes" comment="" />
+    <list default="true" id="2b9d464d-a521-43bd-99c7-6527755ab321" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solstice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solstice/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2WYyTxUAGgvCSG4DSywcMeJrvtJ" />
   <component name="ProjectViewState">
@@ -213,6 +222,7 @@
       <workItem from="1700752981194" duration="249000" />
       <workItem from="1700753456375" duration="273000" />
       <workItem from="1700754376441" duration="136000" />
+      <workItem from="1700754682970" duration="1261000" />
     </task>
     <servers />
   </component>
