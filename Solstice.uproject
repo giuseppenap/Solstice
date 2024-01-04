@@ -47,9 +47,13 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "MetaHuman",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
-	],
-	"TargetPlatforms": [
-		"Windows"
 	]
 }
