@@ -54,6 +54,10 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "DidItHit",
+			"Enabled": true
 		}
 	]
 }
